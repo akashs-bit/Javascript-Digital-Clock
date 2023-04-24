@@ -1,2 +1,2 @@
-# Javascript-Analog-Clock
-i Create Analog Digital Clock Using HTML , CSS , Javascript
+# Javascript-Digital-Clock
+i Created  Digital Clock Using HTML , CSS , Javascript
